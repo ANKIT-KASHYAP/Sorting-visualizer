@@ -1,0 +1,26 @@
+#container{
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+   padding-left: 200px;
+}
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.bar{
+    width: 10px;
+    background-color: black;
+    margin: 1px;
+}
+body{
+    background-color:rgb(17, 235, 169);
+}
+.main_container{
+    border: 2px solid black;
+}
+.btn{
+     padding-left: 200px;
+     padding-bottom: 10px;
+}
